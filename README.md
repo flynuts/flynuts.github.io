@@ -39,7 +39,7 @@
 # [대표 이미지]
 
 ![123456](https://user-images.githubusercontent.com/92343121/137506082-8fb348c4-98a5-4fae-a2a4-0f65dac438b9.png)
-![11](https://user-images.githubusercontent.com/92343121/137506085-001dc762-79b1-45ae-83bc-e9d300f9f1f6.png)
+
 
 
 
