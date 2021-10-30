@@ -42,7 +42,7 @@
 - 동영상
  [https://youtu.be/VuL66Np7QcI](url)
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://youtu.be/VuL66Np7QcI" frameborder="0" allowfullscreen></iframe>
  
 <br><br>
 
