@@ -40,7 +40,7 @@
 
 
 - 동영상
- [https://www.youtube.com/watch?v=kGx_ykETxuE](url)
+ [https://youtu.be/VuL66Np7QcI](url)
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
  
