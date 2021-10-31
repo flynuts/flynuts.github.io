@@ -40,9 +40,8 @@
 
 
 - 동영상
- 
-  
-  {% include video id="VuL66Np7QcI" provider="youtube" %}
+- 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/_EVBzxrpmNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 <br><br>
 
