@@ -42,6 +42,8 @@
 - 동영상
   
   <iframe width="1280" height="720" src="https://www.youtube.com/embed/VuL66Np7QcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+  {% include video id="VYOjWnS4cMY" provider="youtube" %}
  
 <br><br>
 
