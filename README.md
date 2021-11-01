@@ -41,10 +41,8 @@
 
 
 - 동영상
-- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>{% include 파일명.html id="IlXAM44ApJI url" %}  
+- [![예제](http://img.https://youtu.be/VuL66Np7QcI/0.jpg)](https://youtu.be/VuL66Np7QcI) 
 
- 
 <br><br>
 
 # [대표 이미지]
