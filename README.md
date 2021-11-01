@@ -41,7 +41,7 @@
 
 
 - 동영상
-- [![예제](http://img.https://youtu.be/VuL66Np7QcI/0.jpg)](https://youtu.be/VuL66Np7QcI) 
+- [![](http://img.https://youtu.be/VuL66Np7QcI/0.jpg)](https://youtu.be/VuL66Np7QcI) 
 
 <br><br>
 
