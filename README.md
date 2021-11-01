@@ -40,8 +40,7 @@
 # [관련 이미지 동영상]
 
 
-- 동영상
-- [![![12345678](https://user-images.githubusercontent.com/92343121/139668134-04c7c479-5280-48ce-a4e7-d2a4f5d299d4.png)](http://img.https://youtu.be/VuL66Np7QcI/0.jpg)](https://youtu.be/VuL66Np7QcI) 
+[![12345678](https://user-images.githubusercontent.com/92343121/139668134-04c7c479-5280-48ce-a4e7-d2a4f5d299d4.png)](http://img.https://youtu.be/VuL66Np7QcI/0.jpg)](https://youtu.be/VuL66Np7QcI) 
 
 <br><br>
 
