@@ -242,4 +242,4 @@
 
 # [게임 개발 일정]
 
-![개발일정001](https://user-images.githubusercontent.com/92343121/139666939-ad4283d4-e588-46c3-ae46-000a13bef642.png)
+![개발일정001](https://user-images.githubusercontent.com/92343121/141880320-b45c2cc5-d2e4-49e3-b04a-e74dbe702df6.jpg)
